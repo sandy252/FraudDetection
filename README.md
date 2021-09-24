@@ -112,11 +112,11 @@ For support , email @ kashyapsandeep252@gmail.com
 
 
 ## Documentation
-[Detailed Project Report](https://drive.google.com/file/d/1W48MK9WrmGFU18HWjxumkSk5bCfwNJEG/view?usp=sharing)
-[High Level Design](https://drive.google.com/file/d/17H0KBBAsrmbosJ60LPqapOzjYhSjCPEN/view?usp=sharing)
-[Low Level Design](https://drive.google.com/file/d/1PRRzUEhL5l7NO5XO8-ksmk4BZ71NiROh/view?usp=sharing)
-[Architecture](https://drive.google.com/file/d/1xiNJTuPKLFnT8Ewj9LE9ie2gLMM818rB/view?usp=sharing)
-[Wireframe](https://drive.google.com/file/d/1wt12CYrzoVMnklyMbMouazRLK35fWD9d/view?usp=sharing)
+- [Detailed Project Report](https://drive.google.com/file/d/1W48MK9WrmGFU18HWjxumkSk5bCfwNJEG/view?usp=sharing)
+- [High Level Design](https://drive.google.com/file/d/17H0KBBAsrmbosJ60LPqapOzjYhSjCPEN/view?usp=sharing)
+- [Low Level Design](https://drive.google.com/file/d/1PRRzUEhL5l7NO5XO8-ksmk4BZ71NiROh/view?usp=sharing)
+- [Architecture](https://drive.google.com/file/d/1xiNJTuPKLFnT8Ewj9LE9ie2gLMM818rB/view?usp=sharing)
+- [Wireframe](https://drive.google.com/file/d/1wt12CYrzoVMnklyMbMouazRLK35fWD9d/view?usp=sharing)
 
 
 
