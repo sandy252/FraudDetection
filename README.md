@@ -10,6 +10,7 @@ stolen credit cards. With the increase in digitalization, there is also increase
 happening in various domains, mainly in the retail domain. These are detrimental to the
 ecosystem of online transactions.# Proposed Solution
 
+## Proposed Solution
 To recognize fraudulent credit card transactions so that customers are not charged for items that they did not purchase with the help of Machine Learning.
 ## Authors
 
