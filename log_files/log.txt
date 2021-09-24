@@ -1,0 +1,28 @@
+2021-09-09 16:11:34 INFO- * Restarting with stat
+2021-09-09 16:11:37 WARNING- * Debugger is active!
+2021-09-09 16:11:37 INFO- * Debugger PIN: 329-796-477
+2021-09-09 16:11:37 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-09 16:11:56 INFO-127.0.0.1 - - [09/Sep/2021 16:11:56] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-09 16:12:01 WARNING-model has predicted its output without any error
+2021-09-09 16:12:01 INFO-127.0.0.1 - - [09/Sep/2021 16:12:01] "[37mPOST /Predict HTTP/1.1[0m" 200 -
+2021-09-09 16:12:55 INFO- * Detected change in 'C:\\Users\\Sandeep\\pythonProject\\1st_project\\app.py', reloading
+2021-09-09 16:12:56 INFO- * Restarting with stat
+2021-09-09 16:12:59 WARNING- * Debugger is active!
+2021-09-09 16:12:59 INFO- * Debugger PIN: 329-796-477
+2021-09-09 16:12:59 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-09 16:13:10 INFO- * Detected change in 'C:\\Users\\Sandeep\\pythonProject\\1st_project\\app.py', reloading
+2021-09-09 16:13:10 INFO- * Restarting with stat
+2021-09-09 16:13:13 WARNING- * Debugger is active!
+2021-09-09 16:13:13 INFO- * Debugger PIN: 329-796-477
+2021-09-09 16:13:13 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-09 16:13:22 INFO- * Restarting with stat
+2021-09-09 16:13:25 WARNING- * Debugger is active!
+2021-09-09 16:13:25 INFO- * Debugger PIN: 329-796-477
+2021-09-09 16:13:25 INFO- * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+2021-09-09 16:13:35 WARNING-successfully rendered index.html
+2021-09-09 16:13:35 INFO-127.0.0.1 - - [09/Sep/2021 16:13:35] "[37mGET / HTTP/1.1[0m" 200 -
+2021-09-09 16:13:40 WARNING-Taking the feature values from the user
+2021-09-09 16:13:40 WARNING-model has predicted its output without any error
+2021-09-09 16:13:40 INFO-127.0.0.1 - - [09/Sep/2021 16:13:40] "[37mPOST /Predict HTTP/1.1[0m" 200 -
+2021-09-09 20:51:36 WARNING-successfully rendered index.html
+2021-09-09 20:51:37 INFO-127.0.0.1 - - [09/Sep/2021 20:51:37] "[37mGET / HTTP/1.1[0m" 200 -

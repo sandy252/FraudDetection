@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fraud Detection</title>
+</head>
+<body>
+    <div class="heading">
+        <h1>
+            Credit Card Fraud Detection
+        </h1>
+    </div>
+    <div class="message">
+        <p>
+            Please enter the given feature values only in correct order
+        </p>
+    </div>
+    <div class="container">
+        <form action="/Predict" method="POST">
+            <!-- <label for="V1">V1</label> -->
+            <input class='check' placeholder="Time" type="text" name="Time" size="10">
+            <input class='check' placeholder="V1" type="text" name="V1" size="10">
+            <input class='check' placeholder="V2" type="text" name="V2" size="10">
+            <input class='check' placeholder="V3" type="text" name="V3" size="10">
+            <input class='check' placeholder="V4" type="text" name="V4" size="10">
+            <input class='check' placeholder="V5" type="text" name="V5" size="10">
+            <input class='check' placeholder="V6" type="text" name="V6" size="10">
+            <input class='check' placeholder="V7" type="text" name="V7" size="10">
+            <input class='check' placeholder="V8" type="text" name="V8" size="10">
+            <input class='check' placeholder="V9" type="text" name="V9" size="10">
+            <input class='check' placeholder="V10" type="text" name="V10" size="10">
+            <input class='check' placeholder="V11" type="text" name="V11" size="10">
+            <input class='check' placeholder="V12" type="text" name="V12" size="10">
+            <!-- <input class='check' placeholder="V13" type="text" name="V13" size="10"> -->
+            <input class='check' placeholder="V14" type="text" name="V14" size="10">
+            <!-- <input class='check' placeholder="V15" type="text" name="V15" size="10"> -->
+            <input class='check' placeholder="V16" type="text" name="V16" size="10">
+            <input class='check' placeholder="V17" type="text" name="V17" size="10">
+            <input class='check' placeholder="V18" type="text" name="V18" size="10">
+            <!-- <input class='check' placeholder="V19" type="text" name="V19" size="10"> -->
+            <!-- <input class='check' placeholder="V20" type="text" name="V20" size="10"> -->
+            <input class='check' placeholder="V21" type="text" name="V21" size="10">
+            <!-- <input class='check' placeholder="V22" type="text" name="V22" size="10">
+            <input class='check' placeholder="V23" type="text" name="V23" size="10">
+            <input class='check' placeholder="V25" type="text" name="V24" size="10">
+            <input class='check' placeholder="V25" type="text" name="V25" size="10">
+            <input class='check' placeholder="V26" type="text" name="V26" size="10"> -->
+            <input class='check' placeholder="V27" type="text" name="V27" size="10">
+            <input class='check' placeholder="V28" type="text" name="V28" size="10">
+            <input class='check' placeholder="Amount" type="text" name="Amount" size="10">
+
+            <br>
+            <button type="submit" value="Predict">Submit</button>
+        </form>
+    </div>
+</body>
+<style>
+body {
+    background-color: cyan;
+    text-align: center;
+}
+
+.heading {
+    background-color: darkorchid;
+    padding: 0.3%;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: larger;
+}
+
+.message {
+    font-size: larger;
+    font-family: sans-serif;
+    padding: 1%;
+}
+
+button {
+    margin: 1%;
+    padding: 8px 25px;
+    text-align: center;
+    font-size: medium;
+    font-family: sans-serif;
+    background-color: rgb(108, 108, 218);
+    border-radius: 5px;
+    text-decoration: none;
+    border: none;
+    transition-duration: 0.2s;
+    cursor: pointer;
+}
+ button:hover {
+     background-color: #4CAF50;
+     color: black;
+
+ }
+
+ .check {
+     margin: 2%;
+ }
+</style>
+</html>

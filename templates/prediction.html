@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+
+<html lang="en" dir="ltr">
+    <head>
+        <meta charset="utf-8">
+        <title>Prediction</title>
+    </head>
+
+    <body>
+<div class="app">A Machine Learning Web App</div>
+<div class="heading">Result</div>
+    <div class="result">
+{% if result == 0 %}
+    <p id="not_fraud">The transaction is not a fraud transaction</p>
+{% else %}
+    <p id="fraud">The transaction is a fraud transaction</p>
+{% endif %}
+    </div>
+    </body>
+<style>
+    body {
+    text-align : center;
+    background-color:rgb(246, 255, 253);
+    }
+
+    .app {
+        margin-top: 30px;
+        color: darkmagenta;
+        font-family: sans-serif;
+        font-size: 250%;
+        font-weight: 700;
+    }
+
+    #not_fraud {
+        color:green;
+        font-family: sans-serif;
+        font-size: 300%;
+        font-weight: 700;
+
+               }
+
+    #fraud {
+        color: red;
+        font-size: 300%;
+        font-family: sans-serif;
+        font-weight: 700;
+
+            }
+    .heading {
+        margin-top: 7%;
+        color: darkmagenta;
+        font-size: 200%;
+        font-family: sans-serif;
+    }
+
+</style>
+</html>
+
+
