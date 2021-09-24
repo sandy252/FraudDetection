@@ -95,16 +95,16 @@ https://fraudtrasactiondetection.herokuapp.com
   https://github.com/sandy252/FraudDetection.git
 ```
 - traverse to project directory
-  ```bash
+```bash
   cd FraudDetection
-  ```
+```
 - Install dependencies
 ```bash
-    pip install requirements.txt
+  pip install requirements.txt
 ```
 - Run the app.py
 ```bash
-    python app.py
+  python app.py
 ```
 
 ## Support
