@@ -1,6 +1,6 @@
 
 # Credit Card Fraud Detection using machine learning
-This project is all about detecting fraudulent trasaction that are done through credit cards. I have created a machine learning web app which will take some details of transaction from the user and based on that our model will predit whether the transaction is fraudulent or not.
+This project is all about detecting fraudulent trasaction that are done through credit cards. I have created a machine learning web app which will take some details of transaction from the user and based on that our model will predict whether the transaction is fraudulent or not.
 ## Problem Statement
 
 Fraud detection is a set of activities undertaken to prevent money or property from
