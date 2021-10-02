@@ -113,8 +113,8 @@ For support , email @ kashyapsandeep252@gmail.com
 ## Documentation
 - [Detailed Project Report](https://drive.google.com/file/d/1W48MK9WrmGFU18HWjxumkSk5bCfwNJEG/view?usp=sharing)
 - [High Level Design](https://drive.google.com/file/d/17H0KBBAsrmbosJ60LPqapOzjYhSjCPEN/view?usp=sharing)
-- [Low Level Design](https://drive.google.com/file/d/1PRRzUEhL5l7NO5XO8-ksmk4BZ71NiROh/view?usp=sharing)
-- [Architecture](https://drive.google.com/file/d/1xiNJTuPKLFnT8Ewj9LE9ie2gLMM818rB/view?usp=sharing)
+- [Low Level Design](https://drive.google.com/file/d/1j9FM33Vo0J1EV3WtDPeMi4aQ1EnYg3G8/view?usp=sharing)
+- [Architecture](https://drive.google.com/file/d/1053vME8g140Lqb6BURCWi1OcBycDwKAM/view?usp=sharing)
 - [Wireframe](https://drive.google.com/file/d/1wt12CYrzoVMnklyMbMouazRLK35fWD9d/view?usp=sharing)
 
 
