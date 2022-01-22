@@ -48,7 +48,7 @@ You can downlaod the dataset from [here](https://www.kaggle.com/mlg-ulb/creditca
 
 - Pycharm Is Used For IDE.
 - For Visualization Of The Plots Matplotlib , Seaborn Are Used.
-- AWS and Heroku is Used For Model Deployment.
+- Heroku is Used For Model Deployment.
 - Mongodb Database is used as Database.
 - Front End Deployment Is Done Using HTML , CSS.
 - Flask is for creating the application server and pages.
