@@ -91,7 +91,7 @@ https://fraudtrasactiondetection.herokuapp.com
 - clone the project
 
 ```bash
-  https://github.com/sandy252/FraudDetection.git
+  git clone https://github.com/sandy252/FraudDetection.git
 ```
 - traverse to project directory
 ```bash
@@ -99,7 +99,7 @@ https://fraudtrasactiondetection.herokuapp.com
 ```
 - Install dependencies
 ```bash
-  pip install requirements.txt
+  pip install -r requirements.txt
 ```
 - Run the app.py
 ```bash
